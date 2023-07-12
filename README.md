@@ -1,4 +1,7 @@
 # stable-diffusion-prompt-library-zh_CN
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/n714mc)
+
 Chinese Prompt library for Stable diffusion
 
 - 0 - 负面提示词

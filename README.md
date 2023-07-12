@@ -2,7 +2,7 @@
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/n714mc)
 
-## 这个提示词库是用于我的 stable difussion 插件，请先下载插件再加上提示词库
+### 这个提示词库是用于我的 stable difussion 插件，请先下载插件再加上提示词库
 [sd-webui-easy-prompt-selector-zh_CN](https://github.com/n714/sd-webui-easy-prompt-selector-zh_CN)
 
 ![tagImg](https://github.com/n714/sd-webui-easy-prompt-selector-zh_CN/assets/45053630/490b6f3e-c940-4254-b8b4-214fb0ef52ea)

@@ -47,5 +47,5 @@
 └── 6 - 18禁.yml
 ```
 ---
-[繁体中文版](https://github.com/n714/stable-diffusion-prompt-library-zh_TW)https://github.com/n714/stable-diffusion-prompt-library-zh_TW
-English Version （Coming soon)
+- [繁体中文版](https://github.com/n714/stable-diffusion-prompt-library-zh_TW)
+- English Version （Coming soon)

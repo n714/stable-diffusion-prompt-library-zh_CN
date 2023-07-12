@@ -1,55 +1,58 @@
-版图设计 (Layouts):
- 专辑封面: Album Cover
- 解剖图纸: Anatomical Drawing
- 解剖学: Anatomy
- 书籍封面: Book Cover
- 品牌识别: Brand Identity
- 名片: Business Card
- 日历设计: Calendar Design
- 角色设计: Character Design
- 多姿多态角色设计: Character Design Multiple Poses
- 角色资料表: Character Sheet
- 图表设计: Chart Design
- 调色板: Color Palette
- 填色书页: Coloring Book Page
- 连环漫画: Comic Strips
- 玩偶屋: Doll House
- 珐琅针: Enamel Pin
- 百科全书页面: Encyclopedia Page
- 时尚心情板: Fashion Moodboard
- 扁平摆放摄影: Flat Lay Photography
- 传单: Flyer
- 全身角色设计: Full Body Character Design
- 游戏素材: Game Assets
- 游戏用户界面: Game Ui
- 房屋剖视图: House Cutaway
- 房屋平面图: House Plan
- 图标集设计: Icon Set Design
- 宜家指南: Ikea Guide
- 插图分割圆形四季: Illustration Split Circle Four Seasons
- 信息图表: Infographic
- 室内设计: Interior Design
- 珠宝设计: Jewelry Design
- 整理摆放: Knolling
- 徽标设计: Logo Design
- 杂志封面: Magazine Cover
- 菜单设计: Menu Design
- 移动应用程序用户界面设计: Mobile App Ui Design
- 指甲艺术: Nail Art
- 通讯设计: Newsletter Design
- 服装搭配: Outfit
- 包装设计: Packaging Design
- 弹出书: Popup Book
- 邮票: Postage Stamp
- 海报: Poster
- 宣传海报: Propaganda Poster
- 参考表格: Reference Sheet
- 示意图: Schematic Diagram
- 无缝图案: Seamless Pattern
- 贴纸: Sticker
- 故事板: Story Board
- T恤矢量图: T Shirt Vector
- 塔罗牌: Tarot Card
- 纹身设计: Tattoo Design
- 墙面绘画: Wall Painting
- 婚礼邀请函: Wedding Invitation
+.settings:
+ fileFormatForImages: png
+
+版图设计(Layouts):
+ 专辑封面: album cover
+ 解剖图: anatomical drawing
+ 解剖学: anatomy
+ 封面: book cover
+ 品牌形象: brand identity
+ 名片: business card
+ 日历设计: calendar design
+ 角色设计: character design
+ 角色设计多种姿势: character design multiple poses
+ 字符表: character sheet
+ 图表设计: chart design
+ 调色板: color palette
+ 着色书页: coloring book page
+ 漫画: comic strips
+ 娃娃屋: doll house
+ 珐琅别针: enamel pin
+ 百科全书页: encyclopedia page
+ 时尚情绪板: fashion moodboard
+ 平躺摄影: flat lay photography
+ 传单: flyer
+ 全身角色设计: full body character design
+ 游戏资产: game assets
+ 游戏界面: game ui
+ 房子剖面图: house cutaway
+ 房屋平面图: house plan
+ 图标集设计: icon set design
+ 宜家指南: ikea guide
+ 分裂圆四个季节的插图: illustration split circle four seasons
+ 信息图: infographic
+ 室内设计: interior design
+ 珠宝设计: jewelry design
+ 诺林: knolling
+ 标志设计: logo design
+ 杂志封面: magazine cover
+ 菜单设计: menu design
+ 移动应用程序用户界面设计: mobile app ui design
+ 美甲: nail art
+ 通讯设计: newsletter design
+ 全套服装: outfit
+ 包装设计: packaging design
+ 立体书: popup book
+ 邮票: postage stamp
+ 海报: poster
+ 宣传海报: propaganda poster
+ 参考表: reference sheet
+ 原理图，示意图: schematic diagram
+ 无缝模式: seamless pattern
+ 贴纸: sticker
+ 故事板: story board
+ T恤矢量: t-shirt vector
+ 塔罗牌: tarot card
+ 纹身设计: tattoo design
+ 壁画: wall painting
+ 婚礼请柬: wedding invitation

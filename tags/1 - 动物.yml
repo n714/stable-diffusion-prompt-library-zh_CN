@@ -1,3 +1,5 @@
+.settings:
+  fileFormatForImages: png
 动物:
  猫 (Cat):
   波斯猫: Persian Cat

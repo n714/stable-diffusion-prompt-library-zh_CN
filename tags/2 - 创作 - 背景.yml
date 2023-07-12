@@ -1,50 +1,53 @@
-背景 (Background):
- 通往月球的石头之路: A Stone Route To The Moon
- 机场: Airport
- 北极背景: Arctic Background
- 海湾背景: Bay Background
- 海滩背景: Beach Background
- 卧室: Bedroom
- 墓地背景: Cemetery Background
- 城市背景: City Background
- 市政厅: City Hall
- 教室: Classroom
- 君士坦丁堡: Constantinople
- 舞厅: Dancing Hall
- 沙漠背景: Desert Background
- 花田背景: Flower Field Background
- 足球场: Football Court
- 森林背景: Forest Background
- 画廊背景: Gallery Background
- 花园背景: Garden Background
- 健身房: Gym
- 天堂背景: Heaven Background
- 地狱: Hell
- 家庭办公室背景: Home Office Background
- 医院走廊: Hospital Hall
- 教堂内部背景: In A Church Background
- 城堡内部: Inside The Castle
- 监狱: Jail
- 厨房: Kitchen
- 图书馆背景: Library Background
- 客厅: Living Room
- 山: Mountain
- 音乐舞台: Music Stage
- 霓虹灯城市: Neon City
- 纽约街景背景: New York Street Background
- 北极光背景: Northern Lights Background
- 办公室: Office
- 火车上背景: On The Train Background
- 歌剧院大厅: Opera Hall
- 公园: Park
- 雨天背景: Rain Background
- 餐厅: Restaurant
- 餐厅厨房: Restaurant Kitchen
- 河流背景: River Background
- 学校: School
- 雪景: Snow Landscape
- 地铁: Subway
- 隧道: Tunnel
- 山谷背景: Valley Background
- 瀑布: Waterfall
- 白色冬季森林背景: White Winter Forest Background
+.settings:
+ fileFormatForImages: png
+
+背景(Background):
+ 通往月球的石路: a stone route to the moon
+ 飞机场: airport
+ 北极背景: artic background
+ 海湾背景: bay background
+ 海滩背景: beach background
+ 卧室: bedroom
+ 公墓背景: cemetery background
+ 城市背景: city background
+ 市政府: city hall
+ 课堂: classroom
+ 君士坦丁堡: constantinople
+ 舞厅: dancing hall
+ 沙漠背景: desert background
+ 花田背景: flower field background
+ 足球场: football court
+ 森林背景: forest background
+ 画廊背景: gallery background
+ 花园背景: garden background
+ 健身房: gym
+ 天堂背景: heaven background
+ 地狱: hell
+ 家庭办公室背景: home office background
+ 医院大厅: hospital hall
+ 在教堂背景下: in a church background
+ 城堡内部: inside the castle
+ 监狱: jail
+ 厨房: kitchen
+ 图书馆背景: library background
+ 客厅: living room
+ 山: mountain
+ 音乐舞台: music stage
+ 霓虹城: neon city
+ 纽约街头背景: new york street background
+ 北极光背景: northern lights background
+ 办公室: office
+ 在火车上背景: on the train background
+ 歌剧院: opera hall
+ 公园: park
+ 雨背景: rain background
+ 餐厅: restaurant
+ 餐厅厨房: restaurant kitchen
+ 河流背景: river background
+ 学校: school
+ 雪景: snow landscape
+ 地铁: subway
+ 隧道: tunnel
+ 山谷背景: valley background
+ 瀑布: waterfall
+ 白色冬季森林背景: white winter forest background

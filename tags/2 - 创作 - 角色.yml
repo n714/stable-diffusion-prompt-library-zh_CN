@@ -1,68 +1,94 @@
-角色 (Characters idea):
- 心不在焉的教授: Absent Minded Professor
- 非洲人: African
- 非裔美国人: African American
- 外星人: Alien
- 无政府主义者: Anarchist
- 亚洲人: Asian
- 宇航员: Astronaut
- 婴儿: Baby
- 黑人女性: Black Woman
- 盲目先知: Blind Seer
- 商人: Businessman
- 木匠: Carpenter
- 制图师: Cartographer
- 中国人: Chinese
- 小丑: Clown
- 牛仔: Cowboy
- 老巫婆: Crone
- 黑暗领主: Dark Lord
- 魔鬼: Devil
- 德古拉: Dracula
- 龙女: Dragon Lady
- 笨蛋金发女郎: Dumb Blonde
- 邪恶: Evil
- 邪恶小丑: Evil Clown
- 仙女: Fairy
- 致命女人: Femme Fatale
- 菲律宾女性: Filipina
- 法式女仆: French Maid
- 游戏玩家: Gamer
- 极客: Geek
- 艺妓: Geisha
- 鬼魂: Ghost
- 邻家女孩: Girl Next Door
- 哥布林: Goblin
- 上帝: God
- 女神: Goddess
- 高堂黑暗摇滚: Goth
- 高堂朋克: Goth Punk
- 老妇人: Hag
- 时尚达人: Hipster
- 拉丁裔: Hispanic
- 家庭主妇: Housewife
- 土著人: Indigenous
- 记者: Journalist
- 孩子: Kid
- 实验室技术员: Lab Technician
- 疯狂科学家: Mad Scientist
- 美杜莎: Medusa
- 美人鱼: Mermaid
- 大自然之母: Mother Nature
- 缪斯女神: Muse
- 神话中的国王: Mythological King
- 书呆子: Nerd
- 忍者: Ninja
- 修女: Nun
- 神秘侦探: Occult Detective
- 画家: Painter
- 家长: Patriarch
- 演员: Pierrot
- 海盗: Pirate
- 警察: Police Officer
- 政治家: Politician
- 牧师: Priest
- 女祭司: Priestess
- 教授: Professor
- 女王: Queen
- 昆西朋克: Quincy Punk
+.settings:
+ fileFormatForImages: png
+
+角色(Characters):
+  心不在焉的教授: absent minded professor
+  非洲人: african
+  非裔美国人: african american
+  外星人: alien
+  无政府主义者: anarchist
+  亚洲人: asian
+  宇航员: astronaut
+  婴儿: baby
+  黑人妇女: black woman
+  盲人先知: blind seer
+  商人: businessman
+  木匠: carpenter
+  制图师: cartographer
+  中国人: chinese
+  小丑: clown
+  牛仔: cowboy
+  老妪: crone
+  黑暗领主: dark lord
+  魔鬼: devil
+  德古拉: dracula
+  龙女: dragon lady
+  愚蠢的金发女郎: dumb blonde
+  邪恶的: evil
+  邪恶的小丑: evil clown
+  仙女: fairy
+  蛇蝎美人: femme fatale
+  菲律宾人: filipina
+  法国女仆: french maid
+  游戏玩家: gamer
+  极客: geek
+  艺妓: geisha
+  鬼: ghost
+  邻家女孩: girl next door
+  哥布林: goblin
+  上帝: god
+  女神: goddess
+  哥特: goth
+  哥特朋克: goth punk
+  魔女: hag
+  潮人: hipster
+  西班牙裔: hispanic
+  家庭主妇: housewife
+  原住民: indigenous
+  记者: journalist
+  孩子: kid
+  实验室技术员: lab technician
+  疯狂的科学家: mad scientist
+  美杜莎: medusa
+  美人鱼: mermaid
+  大自然: mother nature
+  沉思: muse
+  神话王: mythological king
+  书呆子: nerd
+  忍者: ninja
+  尼姑: nun
+  神秘侦探: occult detective
+  画家: painter
+  族长: patriarch
+  皮埃罗: pierrot
+  海盗: pirate
+  警官: police officer
+  政治家: politician
+  牧师: priest
+  女祭司: priestess
+  教授: professor
+  女王: queen
+  昆西·朋克: quincy punk
+  乡下人: redneck
+  机器人: robot
+  武士: samurai
+  秘书: secretary
+  狙击手: sniper
+  士兵: soldier
+  施法者: spellcaster
+  间谍: spy
+  学生: student
+  超级英雄: superhero
+  剑客: swordman
+  青少年: teen
+  学步的儿童: toddler
+  假小子: tomboy
+  鞋面: vamp
+  吸血鬼: vampire
+  战士: warrior
+  狼人: werewolf
+  白人妇女: white woman
+  巫婆: witch
+  向导: wizard
+  雅皮士: yuppie
+  僵尸: zombie

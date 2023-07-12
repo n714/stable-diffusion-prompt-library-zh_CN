@@ -1,215 +1,195 @@
-艺术家 (Artiest):
+.settings:
+ fileFormatForImages: png
+
+艺术家(Artiest):
  A:
- - Adrian Donoghue
- - Adrian Tomine
- - Akihiko Yoshida
- - Akira Toriyama
- - Akos Major
- - Alan Lee
- - Albert Watson
- - Alberto Seveso
- - Alex Grey
- - Alex Timmermans
- - Alphonse Mucha
- - Andro Botticelli
- - Anna Dittmann
- - Anne Bachelier
- - Antonio Mora
- - Arshile Gorky
- - Arthur Rackham
- - Atey Ghailan
- - Aubrey Beardsley
- - August Macke
-
+  Adrian Donoghue: adrian donoghue
+  Adrian Tomine: adrian tomine
+  Akihiko Yoshida: akihiko yoshida
+  Akira Toriyama: akira toriyama
+  Akos Major: akos major
+  Alan Lee: alan lee
+  Albert Watson: albert watson
+  Alberto Seveso: alberto seveso
+  Alex Grey: alex grey
+  Alex Timmermans: alex timmermans
+  Alphonse Mucha: alphonse mucha
+  Andro Botticelli: andro botticelli
+  Anna Dittmann: anna dittmann
+  Anne Bachelier: anne bachelier
+  Antonio Mora: antonio mora
+  Arshile Gorky: arshile gorky
+  Arthur Rackham: arthur rackham
+  Atey Ghailan: atey ghailan
+  Aubrey Beardsley: aubrey beardsley
+  August Macke: august macke
  B:
- - Basquiat
- - Benoit Mandelbrot
- - Bernie Fuchs
- - Bernini
- - Bill Mantlo
- - Bob Eggleton
- - Brian Bolland
- - Brian Froud
- - Brian Kesinger
- - Brothers Hildebrandt
- - Bruce Pennington
- - Butcher Billy
-
+  Basquiat: basquiat
+  Benoit Mandelbrot: benoit mandelbrot
+  Bernie Fuchs: bernie fuchs
+  Bernini: bernini
+  Bill Mantlo: bill mantlo
+  Bob Eggleton: bob eggleton
+  Brian Bolland: brian bolland
+  Brian Froud: brian froud
+  Brian Kesinger: brian kesinger
+  Brothers Hildebrandt: brothers hildebrandt
+  Bruce Pennington: bruce pennington
+  Butcher Billy: butcher billy
  C:
- - Cai Guo Qiang
- - Canaletto
- - Caravaggio
- - Charlie Bowater
- - Chiharu Shiota
- - Cindy Sherman
- - Claude Monet
- - Coby Whitmore
- - Conrad Roset
- - Craig Mullins
-
+  Cai Guo Qiang: cai guo qiang
+  Canaletto: canaletto
+  Caravaggio: caravaggio
+  Charlie Bowater: charlie bowater
+  Chiharu Shiota: chiharu shiota
+  Cindy Sherman: cindy sherman
+  Claude Monet: claude monet
+  Coby Whitmore: coby whitmore
+  Conrad Roset: conrad roset
+  Craig Mullins: craig mullins
  D:
- - Daido Moriyama
- - Dante Gabriel Rossetti
- - David Hockney
- - Diego Rivera
- - Donatello
- - Dorothy Lathrop
- - Drew Struzan
-
+  Daido Moriyama: daido moriyama
+  Dante Gabriel Rossetti: dante gabriel rossetti
+  David Hockney: david hockney
+  Diego Rivera: diego rivera
+  Donatello: donatello
+  Dorothy Lathrop: dorothy lathrop
+  Drew Struzan: drew struzan
  E:
- - El Anatsui
- - El Lissitzky
- - Ellen Jewett
- - Enki Bilal
- - Erte
- - Escher
-
+  El Anatsui: el anatsui
+  El Lissitzky: el lissitzky
+  Ellen Jewett: ellen jewett
+  Enki Bilal: enki bilal
+  Erte: erte
+  Escher: escher
  F:
- - Francisco De Goya
- - Francoise Nielly
- - Frank Miller
- - Frank Thorne
- - Frida Kahlo
- - Fullmetal Alchemist
-
+  Francisco De Goya: francisco de goya
+  Francoise Nielly: francoise nielly
+  Frank Miller: frank miller
+  Frank Thorne: frank thorne
+  Frida Kahlo: frida kahlo
+  Fullmetal Alchemist: fullmetal alchemist
  G:
- - Georg Baselitz
- - Georges De La Tou
- - Hannah Hoch
-
+  Georg Baselitz: georg baselitz
+  Georges De La Tou: georges de la tou
  H:
- - Hans Arp
- - Hieronymus Bosch
- - Hiroshige
- - Hokusai
- - Howard Philips Lovecraft
-
+  Hannah Hoch: hannah hoch
+  Hans Arp: hans arp
+  Hieronymus Bosch: hieronymus bosch
+  Hiroshige: hiroshige
+  Hokusai: hokusai
+  Howard Philips Lovecraft: howard philips lovecraft
  I:
- - Ilya Kuvshinov
- - Inuyasha
- - Ivan Kramskoy
-
+  Ilya Kuvshinov: ilya kuvshinov
+  Inuyasha: inuyasha
+  Ivan Kramskoy: ivan kramskoy
  J:
- - Jack Kirby
- - Jackson Pollock
- - James Jean
- - James Mcneil Whis
- - Jamie Hewlett
- - Jasmine Becket Griffith
- - Jean Giraud
- - Jean Michel Basqu
- - Jeremy Mann
- - Jmw Turner
- - Johannes Itten
- - John Bauer
- - John Evert Millais
- - John Harris
- - Jon Klassen
- - Josephine Wall
- - Junji Ito
-
+  Jack Kirby: jack kirby
+  Jackson Pollock: jackson pollock
+  James Jean: james jean
+  James Mcneil Whis: james mcneil whis
+  Jamie Hewlett: jamie hewlett
+  Jasmine Becket Griffith: jasmine becket griffith
+  Jean Giraud: jean giraud
+  Jean Michel Basqu: jean michel basqu
+  Jeremy Mann: jeremy mann
+  Jmw Turner: jmw turner
+  Johannes Itten: johannes itten
+  John Bauer: john bauer
+  John Evert Millais: john evert millais
+  John Harris: john harris
+  Jon Klassen: jon klassen
+  Josephine Wall: josephine wall
+  Junji Ito: junji ito
  K:
- - Kandinsky
- - Keith Haring
- - Kelly Freas
- - Koe No Katachi
- - Krenz Cushart
- - Kurt Schwitters
-
+  Kandinsky: kandinsky
+  Keith Haring: keith haring
+  Kelly Freas: kelly freas
+  Koe No Katachi: koe no katachi
+  Krenz Cushart: krenz cushart
+  Kurt Schwitters: kurt schwitters
  L:
- - Lee Krasner
- - Leonardo Da Vinci
- - Lisa Frank
- - Loish
- - Lucio Fontana
- - Luis Royo
-
+  Lee Krasner: lee krasner
+  Leonardo Da Vinci: leonardo da vinci
+  Lisa Frank: lisa frank
+  Loish: loish
+  Lucio Fontana: lucio fontana
+  Luis Royo: luis royo
  M:
- - Mark Ryden
- - Martiros Saryan
- - Masaaki Sasamoto
- - Matisse
- - Max Ernst
- - Max Maximus
- - Michelangelo
- - Milton Avery
- - Moebius
-
+  Mark Ryden: mark ryden
+  Martiros Saryan: martiros saryan
+  Masaaki Sasamoto: masaaki sasamoto
+  Matisse: matisse
+  Max Ernst: max ernst
+  Max Maximus: max maximus
+  Michelangelo: michelangelo
+  Milton Avery: milton avery
+  Moebius: moebius
  N:
- - Nam June Paik
- - Nicholas Poussin
- - Nicoletta Ceccoli
-
+  Nam June Paik: nam june paik
+  Nicholas Poussin: nicholas poussin
+  Nicoletta Ceccoli: nicoletta ceccoli
  O:
- - Osamu Tezuka
- - Otto Dix
-
+  Osamu Tezuka: osamu tezuka
+  Otto Dix: otto dix
  P:
- - Pablo Picasso
- - Paul Gauguin
- - Paul Klee
- - Paul Lehr
- - Peiro Della Francesca
- - Peter Bagge
- - Peter Kennard
- - Peter Lindbergh
- - Peter Paul Rubens
- - Piet Mondrian
- - Pieter Bruegel
- - Pre Raphaelite
-
+  Pablo Picasso: pablo picasso
+  Paul Gauguin: paul gauguin
+  Paul Klee: paul klee
+  Paul Lehr: paul lehr
+  Peiro Della Francesca: peiro della francesca
+  Peter Bagge: peter bagge
+  Peter Kennard: peter kennard
+  Peter Lindbergh: peter lindbergh
+  Peter Paul Rubens: peter paul rubens
+  Piet Mondrian: piet mondrian
+  Pieter Bruegel: pieter bruegel
+  Pre Raphaelite: pre raphaelite
  Q:
- - Quentin Blake
-
+  Quentin Blake: quentin blake
  R:
- - Rebecca Guay
- - Rembrandt
- - Remedios Varo
- - Rene Magritte
- - Rob Gonsalves
- - Roberto Ferri
- - Romare Bearden
- - Ross Tran
- - Roy Lichtenstein
- - Rudi Giger
- - Rumiko Takahashi
-
+  Rebecca Guay: rebecca guay
+  Rembrandt: rembrandt
+  Remedios Varo: remedios varo
+  Rene Magritte: rene magritte
+  Rob Gonsalves: rob gonsalves
+  Roberto Ferri: roberto ferri
+  Romare Bearden: romare bearden
+  Ross Tran: ross tran
+  Roy Lichtenstein: roy lichtenstein
+  Rudi Giger: rudi giger
+  Rumiko Takahashi: rumiko takahashi
  S:
- - Salvador Dali
- - Shaun Tan
- - Sol Lewitt
- - Solly Smook
- - Sonia Delaunay
- - Stephen Gammell
- - Sword Art Online
-
+  Salvador Dali: salvador dali
+  Shaun Tan: shaun tan
+  Sol Lewitt: sol lewitt
+  Solly Smook: solly smook
+  Sonia Delaunay: sonia delaunay
+  Stephen Gammell: stephen gammell
+  Sword Art Online: sword art online
  T:
- - Takashi Murakami
- - Thomas Barbey
- - Thomas Kinkade
- - Tim Burton
- - Titian
- - Traceyemin
-
+  Takashi Murakami: takashi murakami
+  Thomas Barbey: thomas barbey
+  Thomas Kinkade: thomas kinkade
+  Tim Burton: tim burton
+  Titian: titian
+  Traceyemin: traceyemin
  U:
- - Utagawa Kunisada
- - Utagawa Kuniyoshi
-
+  Utagawa Kunisada: utagawa kunisada
+  Utagawa Kuniyoshi: utagawa kuniyoshi
  V:
- - Van Gogh
-
+  Van Gogh: van gogh
  W:
- - Warhol
- - Wassily Handinsky
- - weight
- - Weegee
- - Wes Anderson
- - William Holman Hunt
- - William Morris
-
+  Warhol: warhol
+  Wassily Handinsky: wassily handinsky
+  weight: weight
+  Weegee: weegee
+  Wes Anderson: wes anderson
+  William Holman Hunt: william holman hunt
+  William Morris: william morris
  Y:
- - Yayoi Kusama
- - Yoji Shinkawa
- - Yoshitaka Amano
- - Yoshitomo Nara
- - Yusuke Murata
+  Yayoi Kusama: yayoi kusama
+  Yoji Shinkawa: yoji shinkawa
+  Yoshitaka Amano: yoshitaka amano
+  Yoshitomo Nara: yoshitomo nara
+  Yusuke Murata: yusuke murata

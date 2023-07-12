@@ -1,147 +1,150 @@
-质感 (Texture):
- 三维分形: 3D Fractals
- 玛瑙: Agate
- 铝: Aluminum
- 琥珀: Amber
- 紫水晶: Amethyst
- 编织玩偶: Amigurumi
- 琥珀螺旋虫壳: Ammolite
- 阳极氧化: Anodized
- 阳极氧化钛: Anodized Titanium
- 遮阳篷条纹: Awning Stripe
- 玄武岩: Basalt
- 黄铜: Brass
- 布列塔尼间隔条纹: Breton Stripes Pattern
- 砖块: Brick
- 青铜: Bronze
- 刷砂铝: Brushed Aluminum
- 凹凸不平: Bumpy
- 糖果条纹: Candy Stripes
- 凯尔特结: Celtic Knot
- 陶瓷: Ceramic
- 链条图案: Chain Pattern
- 锁子甲: Chainmail
- 粉笔条纹: Chalk Stripes
- 方格图案: Checks Pattern
- 豹纹图案: Cheetah Print Pattern
- 樱桃木: Cherry Wood
- 雪尼尔纹: Chevron Pattern
- 中式装饰图案: Chinoiserie
- 黄水晶: Citrine
- 泥土: Clay
- 掐丝珐琅: Cloisonné
- 煤炭: Coal
- 粗糙的: Coarse
- 鹅卵石: Cobblestone
- 混凝土: Concrete
- 刚玉: Corundum
- 棉花: Cotton
- 十字绣: Crossstitch
- 达尔马提亚纹样: Dalmatian Pattern
- 大马士革钛: Damascus Titanium
- 锦缎图案: Damask Pattern
- 牛仔布: Denim
- 灰烬: Embers
- 刺绣的: Embroidered
- 祖母绿: Emerald
- 艺术打印: Eopart Print
- 环氧树脂: Epoxy
- 织物: Fabric
- 金线饰工艺: Filigree
- 指纹图案: Fingerprint Pattern
- 火焰: Fire
- 花纹质感: Floral Texture
- 蓬松的: Fluffy
- 流体: Fluid
- 金属箔: Foil
- 分形: Fractal
- 毛茸茸的: Furry
- 方格呢: Gingham
- 吉里纹样: Girih
- 格伦格子图案: Glen Check Pattern
- 光滑的: Glossy
- 黄金: Gold
- 砂粒状的: Gritty
- 多毛的: Hairy
- 鱼骨图案: Herringbone Pattern
- 六边形: Hexagon
- 全息的: Holographic
- 冰冷的: Icy
- 彩虹色的: Iridescent
- 铁艺: Ironwork
- 象牙雕刻: Ivory Carving
- 翡翠: Jade
- 碧玉: Jasper
- 果冻状的: Jelly
- 万花筒图案: Kaleidoscopic Pattern
- 科霍尔马: Khokhloma
- 针织图案: Knitting Pattern
- 蓝晶石: Kyanite
- 蕾丝: Lace
- 漆器: Lacquer
- 青金石: Lapis
- 皮革: Leather
- 光粒子: Light Particles
- 细面条图案: Linguini Pattern
- 液态铋: Liquid Bismuth
- 液态金: Liquid Gold
- 液态金属: Liquid Metal
- 岩浆: Magma
- 孔雀石: Malachite
- 曼德尔球体: Mandelbulb
- 大理石: Marble
- 哑光的: Matte
- 网眼: Mesh
- 金属网: Mesh Wire
- 发霉的: Moldy
- 熔化的: Molten
- 马赛克: Mosaic
- 钉头图案: Nailshead
- 镍: Nickel
- 橡木: Oak Wood
- 缟玛瑙: Onyx
- 蛋白石: Opal
- 华丽的: Ornate
- 佩斯利图案: Paisley
- 纸张: Paper
- 面食图案: Pasta Pattern
- 橄榄石: Peridot
- 细条纹: Pinstripes
- 格子图案: Plaid
- 木板: Planks
- 铂金: Platinum
- 波点: Polka Dot
- 多刺的: Prickly
- 石英: Quartz
- 彩虹大理石: Rainbow Marble
- 玫瑰金: Rose Gold
- 橡皮筋: Rubber Band
- 沙纹理: Sand Texture
- 砂纸: Sandpaper
- 蓝宝石: Sapphire
- 亮片: Sequin
- 蛇纹状条纹: Serpentine Stripes Pattern
- 鲨鱼皮: Shark Skin
- 牧羊人方格: Shepherds Check
- 尖晶石: Spinel
- 彩色玻璃: Stained Glass
- 石头: Stone
- 石砖质感: Stone Brick Texture
- 稻草: Straw
- 灰泥: Stucco
- 苏格兰格子: Tartan
- 水磨石: Terrazzo
- 闪光线: Tinsel
- 薄纸: Tissue Paper
- 碧玺: Tourmaline
- 斜纹: Twill
- 绿松石: Variscite
- 柔软的: Velvety
- 体素: Voxel
- 窗格图案: Windowpane Pattern
- 木制的: Wooden
- 重量: Weight
- 羊毛: Wool
- 皱纹的: Wrinkly
- 纱线: Yarn
- 斑马纹: Zebra Print
+.settings:
+  fileFormatForImages: png
+  
+质感(Texture):
+ 三维分形: 3d fractals
+ 玛瑙: agate
+ 铝: aluminum
+ 琥珀: amber
+ 紫水晶: amethyst
+ 编织玩偶: amigurumi
+ 琥珀螺旋虫壳: ammolite
+ 阳极氧化: anodized
+ 阳极氧化钛: anodized titanium
+ 遮阳篷条纹: awning stripe
+ 玄武岩: basalt
+ 黄铜: brass
+ 布列塔尼间隔条纹: breton stripes pattern
+ 砖块: brick
+ 青铜: bronze
+ 刷砂铝: brushed aluminum
+ 凹凸不平: bumpy
+ 糖果条纹: candy stripes
+ 凯尔特结: celtic knot
+ 陶瓷: ceramic
+ 链条图案: chain pattern
+ 锁子甲: chainmail
+ 粉笔条纹: chalk stripes
+ 方格图案: checks pattern
+ 豹纹图案: cheetah print pattern
+ 樱桃木: cherry wood
+ 雪尼尔纹: chevron pattern
+ 中式装饰图案: chinoiserie
+ 黄水晶: citrine
+ 泥土: clay
+ 掐丝珐琅: cloisonné
+ 煤炭: coal
+ 粗糙的: coarse
+ 鹅卵石: cobblestone
+ 混凝土: concrete
+ 刚玉: corundum
+ 棉花: cotton
+ 十字绣: crossstitch
+ 达尔马提亚纹样: dalmatian pattern
+ 大马士革钛: damascus titanium
+ 锦缎图案: damask pattern
+ 牛仔布: denim
+ 灰烬: embers
+ 刺绣的: embroidered
+ 祖母绿: emerald
+ 艺术打印: eopart print
+ 环氧树脂: epoxy
+ 织物: fabric
+ 金线饰工艺: filigree
+ 指纹图案: fingerprint pattern
+ 火焰: fire
+ 花纹质感: floral texture
+ 蓬松的: fluffy
+ 流体: fluid
+ 金属箔: foil
+ 分形: fractal
+ 毛茸茸的: furry
+ 方格呢: gingham
+ 吉里纹样: girih
+ 格伦格子图案: glen check pattern
+ 光滑的: glossy
+ 黄金: gold
+ 砂粒状的: gritty
+ 多毛的: hairy
+ 鱼骨图案: herringbone pattern
+ 六边形: hexagon
+ 全息的: holographic
+ 冰冷的: icy
+ 彩虹色的: iridescent
+ 铁艺: ironwork
+ 象牙雕刻: ivory carving
+ 翡翠: jade
+ 碧玉: jasper
+ 果冻状的: jelly
+ 万花筒图案: kaleidoscopic pattern
+ 科霍尔马: khokhloma
+ 针织图案: knitting pattern
+ 蓝晶石: kyanite
+ 蕾丝: lace
+ 漆器: lacquer
+ 青金石: lapis
+ 皮革: leather
+ 光粒子: light particles
+ 细面条图案: linguini pattern
+ 液态铋: liquid bismuth
+ 液态金: liquid gold
+ 液态金属: liquid metal
+ 岩浆: magma
+ 孔雀石: malachite
+ 曼德尔球体: mandelbulb
+ 大理石: marble
+ 哑光的: matte
+ 网眼: mesh
+ 金属网: mesh wire
+ 发霉的: moldy
+ 熔化的: molten
+ 马赛克: mosaic
+ 钉头图案: nailshead
+ 镍: nickel
+ 橡木: oak wood
+ 缟玛瑙: onyx
+ 蛋白石: opal
+ 华丽的: ornate
+ 佩斯利图案: paisley
+ 纸张: paper
+ 面食图案: pasta pattern
+ 橄榄石: peridot
+ 细条纹: pinstripes
+ 格子图案: plaid
+ 木板: planks
+ 铂金: platinum
+ 波点: polka dot
+ 多刺的: prickly
+ 石英: quartz
+ 彩虹大理石: rainbow marble
+ 玫瑰金: rose gold
+ 橡皮筋: rubber band
+ 沙纹理: sand texture
+ 砂纸: sandpaper
+ 蓝宝石: sapphire
+ 亮片: sequin
+ 蛇纹状条纹: serpentine stripes pattern
+ 鲨鱼皮: shark skin
+ 牧羊人方格: shepherds check
+ 尖晶石: spinel
+ 彩色玻璃: stained glass
+ 石头: stone
+ 石砖质感: stone brick texture
+ 稻草: straw
+ 灰泥: stucco
+ 苏格兰格子: tartan
+ 水磨石: terrazzo
+ 闪光线: tinsel
+ 薄纸: tissue paper
+ 碧玺: tourmaline
+ 斜纹: twill
+ 绿松石: variscite
+ 柔软的: velvety
+ 体素: voxel
+ 窗格图案: windowpane pattern
+ 木制的: wooden
+ 重量: weight
+ 羊毛: wool
+ 皱纹的: wrinkly
+ 纱线: yarn
+ 斑马纹: zebra print

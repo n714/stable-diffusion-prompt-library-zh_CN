@@ -1,0 +1,149 @@
+.settings:
+ fileFormatForImages: png
+
+風格(Style):
+ 3D: 3d
+ 抽象主义: abstract art
+ 抽象表现主义: abstract expressionism
+ 抽象错觉: abstract illusion
+ 动作绘画: action painting
+ 阿莱布里耶斯: alebrijes
+ 分析立体主义: analytical cubism
+ 原生艺术: art brut
+ 艺术装饰: art deco
+ 新艺术风格: art nouveau
+ 贫困艺术: arte povera
+ 自动主义: automatism
+ 包豪斯: bauhaus
+ 贝叶挂毯: bayeux tapestry
+ 英伦流行音乐: britpop
+ 青铜时代: bronze age
+ 野蛮主义: brutalism
+ 泡泡哥特: bubble goth
+ 滑稽漫画: caricature
+ 制图艺术: cartographic art
+ 卡通片: cartoon
+ 儿童书籍插图: childrens book illustration
+ 电影般的: cinematic
+ 景泰蓝主义: cloisonnism
+ 拼贴艺术: collage art
+ 色域绘画: color field painting
+ 多彩拼贴画: colorful collages
+ 美国漫画: comic
+ 商业艺术: commercial art
+ 观念艺术: conceptual art
+ 具体主义: concretism
+ 建构主义: constructivism
+ 科普特艺术: coptic art
+ 立体主义: cubism
+ 立方体表现主义: cubo expressionism
+ 立方体未来主义: cubo futurism
+ 赛博德利克: cyberdelic
+ 达达: dada
+ DBZ风格: dbz style
+ 风格派: de stijl
+ 数字艺术: digital art
+ 数字绘画: digital painting
+ 迪士尼: disney
+ 纪实摄影: documentary photography
+ 动态姿势: dynamic pose
+ 反乌托邦艺术: dystopian art
+ 令人惊叹的艺术: electrifying art
+ 表现主义: expressionism
+ 野兽派: fauvism
+ 纤维艺术: fiber art
+ 具象表现主义: figurative expressionism
+ 美术摄影: fine art photography
+ 鱼眼: fisheye
+ 平面设计: flat design
+ 民间艺术: folk art
+ 放克流行音乐: funkypop
+ 几何的: geometric
+ 几何抽象: geometric abstraction
+ 几何绘画: geometric painting
+ 吉卜力: ghibli
+ 吉布森女孩: gibson girl
+ 涂鸦艺术: graffiti art
+ 垃圾: grunge
+ 超极简主义: hypermaximalistic
+ 超写实: hyperrealistic
+ 超写实动漫: hyperrealistic anime
+ 插图: illustration
+ 印象派: impressionism
+ 亲密主义: intimism
+ 错综复杂的极繁主义: intricate maximalist
+ 等距: isometric
+ 日本主义: japonisme
+ 丛林核心: junglecore
+ 卡哇伊: kawaii
+ 动态艺术: kinetic art
+ 悬浮: levitation
+ 光与空间: light and space
+ 灯光艺术: light art
+ 洛菲艺术: lofi art
+ 低聚: low poly
+ 发光主义: luminism
+ 抒情抽象: lyrical abstraction
+ 邮件艺术: mail art
+ 日本漫画: manga
+ 漫画: manhwa
+ 漫威: marvel
+ 极繁主义: maximalism
+ 机械立体主义: mechanistic cubism
+ 孟菲斯设计: memphis design
+ 微型核心: miniaturecore
+ 极简主义: minimalism
+ 朴素的艺术: naive art
+ 新达达: neo dada
+ 新表现主义: neo expressionism
+ 新地理: neo geo
+ 新印象派: neo impressionism
+ 新极简主义: neo minimalism
+ 新至上主义: neo suprematism
+ 肿瘤形成论: neoplasticism
+ 辛烷渲染: octane render
+ 欧普艺术: op art
+ 奥弗斯教: orphism
+ 局外人艺术: outsider art
+ 叠加艺术: overlay art
+ 图案与装饰: pattern and decoration
+ 感知艺术: perception art
+ 照片写实主义: photorealistism
+ 绘画主义: pictorialism
+ 皮克斯: pixar
+ 流行艺术: popart
+ 后印象派: post impressionis
+ 后绘画抽象: post painterly abstraction
+ 后极简主义: postminimalism
+ 精确主义: precisionism
+ 原始主义: primitivism
+ 迷幻: psychedelia
+ 迷幻的: psychedelic
+ 纸浆艺术: pulp art
+ 纯粹主义: purism
+ 皮桑基: pysanky
+ 实际的: realistic
+ 角色扮演游戏制作者: rpg maker
+ 三丽鸥: sanrio
+ 空间主义: spatialism
+ 街头艺术: street art
+ 街头摄影: street photography
+ 须美英: sumi e
+ 超扁平: superflat
+ 至上主义: suprematism
+ 超现实主义: surrealism
+ 对称: symmetrical
+ 同色性: synchromism
+ 联觉: synesthesia
+ 综合立体主义: synthetic cubism
+ 纺织艺术: textile art
+ 调性: tonalism
+ 玩具主义: toyism
+ 超自动主义: transautomatism
+ 超前卫: transavantgarde
+ 浮世绘: ukiyo e
+ 虚幻引擎: unreal engine
+ 沃罗诺伊: voronoi
+ 异想天开: whimsical
+ 阴阳: yinyang
+ 津加: zynga

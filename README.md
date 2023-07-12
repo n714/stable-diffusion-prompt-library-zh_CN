@@ -7,6 +7,7 @@
 
 ![tagImg](https://github.com/n714/sd-webui-easy-prompt-selector-zh_CN/assets/45053630/490b6f3e-c940-4254-b8b4-214fb0ef52ea)
 
+---
 Stable diffusion 中文提示词库
 ```
 .

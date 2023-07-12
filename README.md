@@ -6,28 +6,6 @@ Chinese Prompt library for Stable diffusion
 ```
 .
 ├── ...
-├── 2 - 创作 - 主题
-│   └── 主题(Themes)
-├── 2 - 创作 - 建筑
-│   └── 建筑(Architecture)
-├── 2 - 创作 - 技巧
-│   └── 技巧(Techniques)
-├── 2 - 创作 - 服装
-│   └── 服装(Outfit)
-├── 2 - 创作 - 版图设计
-│   └── 版图设计(Layouts)
-├── 2 - 创作 - 背景
-│   └── 背景(Background)
-├── 2 - 创作 - 艺术家
-│   └── 艺术家(Artist)
-├── 2 - 创作 - 角色
-│   └── 角色(Characters)
-├── 2 - 创作 - 角色设计
-│   └── 角色设计(Character Design)
-├── 2 - 创作 - 质感
-│   └── 质感(Texture)
-├── 2 - 创作 - 風格
-│   └── 風格(Style)
 ├── 0 - 负面提示词.yml
 ├── 0 - 起手提示词.yml
 ├── 1 - 人物.yml

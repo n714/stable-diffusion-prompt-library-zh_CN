@@ -48,4 +48,4 @@
 ```
 ---
 - [繁体中文版](https://github.com/n714/stable-diffusion-prompt-library-zh_TW)
-- English Version （Coming soon)
+- [English Version](https://github.com/n714/stable-diffusion-prompt-library-en) （Coming soon)

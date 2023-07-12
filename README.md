@@ -5,6 +5,7 @@
 Chinese Prompt library for Stable diffusion
 ```
 .
+├── ...
 ├── 2 - 创作 - 主题
 │   └── 主题(Themes)
 ├── 2 - 创作 - 建筑
@@ -19,8 +20,6 @@ Chinese Prompt library for Stable diffusion
 │   └── 背景(Background)
 ├── 2 - 创作 - 艺术家
 │   └── 艺术家(Artist)
-├── 2 - 创作 - 艺术家
-│   └── 艺术家(Artiest) directory
 ├── 2 - 创作 - 角色
 │   └── 角色(Characters)
 ├── 2 - 创作 - 角色设计

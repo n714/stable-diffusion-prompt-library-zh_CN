@@ -27,7 +27,6 @@ Chinese Prompt library for Stable diffusion
 ├── 2 - 创作 - 版图设计.yml
 ├── 2 - 创作 - 背景.yml
 ├── 2 - 创作 - 艺术家.yml
-├── 2 - 创作 - 艺术家.yml
 ├── 2 - 创作 - 角色.yml
 ├── 2 - 创作 - 角色设计.yml
 ├── 2 - 创作 - 质感.yml

@@ -2,6 +2,9 @@
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/n714mc)
 
+## 这个提示库是用于我的 stable difussion add-on插件
+[sd-webui-easy-prompt-selector-zh_CN](https://github.com/n714/sd-webui-easy-prompt-selector-zh_CN)
+
 Chinese Prompt library for Stable diffusion
 ```
 .
